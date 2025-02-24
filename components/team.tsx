@@ -27,7 +27,7 @@ const team = [
   {
     name: "Tharushi Jayasooriya",
     role: "Backend Developer",
-    image: "/images/anupama.jpg",
+    image: "/images/anupama2.jpg",
     linkedin: "https://www.linkedin.com/in/tharushi-jayasooriya/",
   },
   {
