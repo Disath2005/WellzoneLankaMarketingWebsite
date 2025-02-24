@@ -27,7 +27,7 @@ const team = [
   {
     name: "Tharushi Jayasooriya",
     role: "Backend Developer",
-    image: "/images/Anupama.jpg",
+    image: "/images/anupama.jpg",
     linkedin: "https://www.linkedin.com/in/tharushi-jayasooriya/",
   },
   {
@@ -39,7 +39,7 @@ const team = [
   {
     name: "Disath Damsana",
     role: "Backend Developer",
-    image: "/images/Disath.jpg",
+    image: "/images/disath.jpg",
     linkedin: "https://www.linkedin.com/in/disath-damsana/",
   },
 ];
