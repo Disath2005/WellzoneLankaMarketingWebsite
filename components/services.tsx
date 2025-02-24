@@ -2,7 +2,6 @@
 
 import { motion } from "framer-motion";
 import Image from "next/image";
-import { Activity, Heart, Brain, Dumbbell } from "lucide-react";
 
 interface Service {
   title: string;
