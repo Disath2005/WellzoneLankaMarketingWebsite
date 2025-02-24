@@ -15,7 +15,7 @@ const team = [
     name: "Pasindu Randika",
     role: "Frontend Developer",
     image: "/images/randika.jpg",
-    linkedin: "https://www.linkedin.com/in/pasindu-randika/",
+    linkedin: "https://www.linkedin.com/in/pasindu-randika-470ba3296/",
   },
   {
     name: "Esitha Jayasundara",
@@ -28,7 +28,8 @@ const team = [
     name: "Tharushi Jayasooriya",
     role: "Backend Developer",
     image: "/images/anupama2.jpg",
-    linkedin: "https://www.linkedin.com/in/tharushi-jayasooriya/",
+    linkedin:
+      "https://www.linkedin.com/in/tharushi-jayasooriya-3919b626b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
   },
   {
     name: "Chathuni Sooriyarachchi",
