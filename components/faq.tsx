@@ -25,13 +25,11 @@ const faqs = [
     answer:
       "Yes, we provide virtual training sessions and online coaching. This includes live video workouts, recorded sessions, and remote progress tracking through our digital platform.",
   },
-
   {
     question: "What&apos;s your cancellation policy?",
     answer:
       "We understand that plans change. We request 24-hour notice for cancelling individual sessions. For membership cancellations, please refer to your specific membership agreement or contact our support team.",
   },
-
   {
     question: "Are your trainers certified?",
     answer:
@@ -117,7 +115,7 @@ export function FAQ() {
           className="text-center mt-12"
         >
           <p className="text-gray-600 mb-6">
-            Still have questions? We're here to help!
+            Still have questions? We&apos;re here to help!
           </p>
           <a
             href="#contact"
