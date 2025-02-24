@@ -67,7 +67,7 @@ export function Services() {
         </motion.div>
 
         <div className="space-y-20">
-          {services.map((service, index) => (
+          {services.map((service) => (
             <motion.div
               key={service.title}
               initial={{ opacity: 0, y: 20 }}

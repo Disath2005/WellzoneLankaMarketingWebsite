@@ -25,11 +25,13 @@ const faqs = [
     answer:
       "Yes, we provide virtual training sessions and online coaching. This includes live video workouts, recorded sessions, and remote progress tracking through our digital platform.",
   },
+
   {
-    question: "What's your cancellation policy?",
+    question: "What&apos;s your cancellation policy?",
     answer:
       "We understand that plans change. We request 24-hour notice for cancelling individual sessions. For membership cancellations, please refer to your specific membership agreement or contact our support team.",
   },
+
   {
     question: "Are your trainers certified?",
     answer:
